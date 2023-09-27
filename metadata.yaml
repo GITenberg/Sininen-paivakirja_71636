@@ -1,0 +1,43 @@
+_repo: Sininen-paivakirja_71636
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mayhew, A. L. (Anthony Lawson)
+    alias: Mayhew, Anthony Lawson
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '4591'
+    url: http://www.gutenberg.org/2009/agents/4591
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoj, Lev Nikolaevič
+    - Tolstoj, Lev Nikolaevic
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2023-09-13'
+identifiers:
+  gutenberg: '71636'
+language: fi
+pgterms:marc905: 20230126055637tolstoijun
+pgterms:marc906: '1898'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aTampere :$bTampereen Sanomat, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sininen päiväkirja
+url: http://www.gutenberg.org/ebooks/71636
