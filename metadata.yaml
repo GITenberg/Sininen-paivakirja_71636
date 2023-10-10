@@ -8,6 +8,9 @@ contributor:
     deathdate: 1916
     gutenberg_agent_id: '4591'
     url: http://www.gutenberg.org/2009/agents/4591
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71636#Sininen-paivakirja
 gutenberg_issued: '2023-09-13'
 identifiers:
   gutenberg: '71636'
